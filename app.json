@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "AD",
+    "slug": "AD",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/favic.png",
+    "splash": {
+      "image": "./assets/favic.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.vaidtech.ADApp",
+      "versionCode": 2,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/favic.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favic.png"
+    }
+  }
+}

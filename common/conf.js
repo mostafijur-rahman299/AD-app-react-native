@@ -1,0 +1,3 @@
+export const BACKEND_HOST = "http://ebdde3bb16b5.ngrok.io";
+export const Authorization_Token =
+  "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjI0NTk3OTg2LCJqdGkiOiI3NjdiNzZjMjZhNzk0ZDdlYTU2NzdhMjEzZjE0ZmVkYiIsInVzZXJfaWQiOjExfQ.gypEUROAqesfqLfnfX4j9G76i-oFlHTGiQ8uokEBGk4";
